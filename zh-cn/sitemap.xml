@@ -3,23 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://fencesitter1.github.io/about/</loc>
+    <loc>https://wuweiblog.me/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://fencesitter1.github.io/</loc>
+    <loc>https://wuweiblog.me/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://fencesitter1.github.io/en/"
+      href="https://wuweiblog.me/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://fencesitter1.github.io/"
+      href="https://wuweiblog.me/"
     />
   </url>
 </urlset>
