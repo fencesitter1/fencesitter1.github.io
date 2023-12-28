@@ -8,6 +8,16 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>https://wuweiblog.me/blog/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://wuweiblog.me/booknote/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://wuweiblog.me/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
